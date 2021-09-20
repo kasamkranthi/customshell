@@ -1,0 +1,11 @@
+main.c is the main file which takes the input and also cd, echo ,pwd are done there.
+headers.h has all the directories used.
+promt.c has the code for printing prompt screen.
+ls.c has code for ls with flags.
+pinfo.c has code for pinfo.
+command.c has code for other commands other than those of above which can run in foreground or background.
+command.c has the code for the function overkill
+piping.c has the code for execution of pipe
+redirection.c has the code for the redirection
+env.c has the code for setenv and unsetenv
+
